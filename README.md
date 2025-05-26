@@ -1,4 +1,4 @@
-# 🛡️ Hi, I'm Cmonppai – Aspiring Cybersecurity
+# 🛡️ Hi, I'm Cmonpapi – Aspiring Cybersecurity
 
 I'm just starting my journey in cybersecurity and using this space to track my learning, document my progress, and share beginner-friendly projects. 💻🔍
 
